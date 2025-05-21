@@ -27,8 +27,8 @@ Welcome! First of all, thanks for your interest in contributing to Wynnventory. 
 ### How to contribute
 
 1. **Fork & Clone** the repo.
-2. **Open an issue** in GitHub’s Issues describing the feature or bug you want to tackle.
-3. **Create a branch** using the Github issue.
+2. **Open an Github Issue** describing the feature or bug you want to tackle.
+3. **Create a branch** using the Github Issue.
 4. **Implement and test** your changes.
 5. **Open a PR** targeting the `test` branch.
 6. We’ll review, provide feedback, and merge when ready! 🙌
@@ -62,8 +62,8 @@ Wynnventory is your ultimate Wynncraft loot companion, bringing real-time data a
 ### How to contribute
 
 1. **Fork & Clone** the repo.
-2. **Open an issue** detailing your proposed feature or bugfix.
-3. **Create a branch** using the Github issue.
+2. **Open an issue** describing the feature or bug you want to tackle.
+3. **Create a branch** using the Github Issue.
 4. **Implement and test** locally.
 5. **Open a PR** against the `master` branch for review.
 6. We’ll test, tweak, and merge—it’s that simple!

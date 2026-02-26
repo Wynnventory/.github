@@ -13,6 +13,16 @@ body:
       value: |
         Thanks for taking the time to fill out this bug report!
         
+  - type: input
+    id: affected-version
+    attributes:
+      label: Affected version / tag
+      description: |
+        Enter the version/tag where this bug occurs (e.g. v2.0.0, v2.1.0-beta.1).
+      placeholder: "e.g. v2.0.0"
+    validations:
+      required: true
+      
   - type: textarea
     id: steps-to-reproduce
     attributes:
